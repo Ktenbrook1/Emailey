@@ -1,0 +1,22 @@
+{
+  "name": "emailreact",
+  "version": "1.0.0",
+  "description": "I'm currently following a Udemy course to learn more about React, Node, MongoDB and much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ktenbrook1/Emailey.git"
+  },
+  "author": "Katelynn Tenbrook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ktenbrook1/Emailey/issues"
+  },
+  "homepage": "https://github.com/Ktenbrook1/Emailey#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
